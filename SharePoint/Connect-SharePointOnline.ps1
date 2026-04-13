@@ -1,0 +1,1 @@
+# Connect-SharePointOnline.ps1 content from https://github.com/jgpatrizzi/M365---PowerShell/blob/main/Connect-SharePointOnline.ps1
